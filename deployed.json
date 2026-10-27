@@ -1,8 +1,8 @@
 {
   "site": "production",
-  "tag": "site-53ed80a6eebc668caa558940306d88b50ebb6b78",
-  "sha256": "7ca3af2c9aaa80ba6e520a535b7d9b3728c4cd8b605a6cd25a38cad43fda22d1",
-  "configRef": "164734fe23494b0a8c2c8753e0b2bb128f9e9fa7",
-  "time": "2026-10-27T20:38:11Z",
+  "tag": "site-c8cb69b104da6b29afbcd54fa304f306d4b8d76e",
+  "sha256": "2759a4e7011e79bcefbf8efc4cfa37bd9d6e812a60842671c49b05fd0b61c5b1",
+  "configRef": "b2453a02448ca561fcc2bd0019ef2ecf74141c54",
+  "time": "2026-10-27T20:44:56Z",
   "approver": "apowers313"
 }
